@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jack7\\projects\\projects.csproj": {}
+    "C:\\Users\\Jack7\\projects\\first_blazor\\projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jack7\\projects\\projects.csproj": {
+    "C:\\Users\\Jack7\\projects\\first_blazor\\projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jack7\\projects\\projects.csproj",
+        "projectUniqueName": "C:\\Users\\Jack7\\projects\\first_blazor\\projects.csproj",
         "projectName": "projects",
-        "projectPath": "C:\\Users\\Jack7\\projects\\projects.csproj",
+        "projectPath": "C:\\Users\\Jack7\\projects\\first_blazor\\projects.csproj",
         "packagesPath": "C:\\Users\\Jack7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jack7\\projects\\obj\\",
+        "outputPath": "C:\\Users\\Jack7\\projects\\first_blazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jack7\\AppData\\Roaming\\NuGet\\NuGet.Config"
