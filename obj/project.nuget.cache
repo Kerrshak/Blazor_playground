@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQN9OKYe3QFIErxt8Vbrj62+AxOO2WhtjwteQHG6AXtD5MPfDS8asNr0CslUaqkg89IISqijNoJxz0fofWok/Q==",
+  "dgSpecHash": "oRxb5tbf7VW1v0T39K40WBybUJU6Ru0ydFmb/EBGAqu5PrENrZAaITGNAAWz5rLfb9TQWCJB+054P0BcldYeMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jack7\\projects\\projects.csproj",
+  "projectFilePath": "C:\\Users\\Jack7\\projects\\first_blazor\\projects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
